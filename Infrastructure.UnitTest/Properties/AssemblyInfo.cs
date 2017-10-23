@@ -1,14 +1,15 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SexyFishHorse.CitiesSkylines.Infrastructure")]
-[assembly: AssemblyDescription("Infrastructure code for Cities Skylines modding")]
+[assembly: AssemblyTitle("SexyFishHorse.CitiesSkylines.Infrastructure.UnitTest")]
+[assembly: AssemblyDescription("Source code for the unit test project for cities skylines modding infrastructure")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SexyFishHorse")]
-[assembly: AssemblyProduct("SexyFishHorse.CitiesSkylines.Infrastructure")]
+[assembly: AssemblyProduct("SexyFishHorse.CitiesSkylines.Infrastructure.UnitTest")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ad014c29-9fb7-42e5-a88a-40be0aeb6c0b")]
+[assembly: Guid("de523e6b-ed70-4dea-b7fe-2ac3c8938119")]
 
 // Version information for an assembly consists of the following four values:
 //
